@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Miami Mortgage &amp; Monthly Cost Calculator (Foreign Buyers Too) | Vinicius Cadengue</title>
+<meta name="description" content="Estimate your real monthly cost for a Miami home or condo: mortgage payment, property tax, insurance and HOA. Works for U.S. and foreign national buyers.">
+<link rel="canonical" href="https://realtorvini.com/mortgage-calculator/">
+<link rel="alternate" hreflang="en" href="https://realtorvini.com/mortgage-calculator/">
+<link rel="alternate" hreflang="pt" href="https://realtorvini.com/pt/calculadora/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Miami Mortgage &amp; Monthly Cost Calculator (Foreign Buyers Too) | Vinicius Cadengue">
+<meta property="og:description" content="Estimate your real monthly cost for a Miami home or condo: mortgage payment, property tax, insurance and HOA. Works for U.S. and foreign national buyers.">
+<meta property="og:url" content="https://realtorvini.com/mortgage-calculator/">
+<meta property="og:image" content="https://realtorvini.com/images/og-cover.jpg">
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600&family=Open+Sans:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/styles.css">
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "WebApplication",
+ "name": "What Will a Miami Home Really Cost Per Month?",
+ "url": "https://realtorvini.com/mortgage-calculator/",
+ "applicationCategory": "FinanceApplication",
+ "operatingSystem": "Any",
+ "inLanguage": "en",
+ "offers": {
+  "@type": "Offer",
+  "price": "0",
+  "priceCurrency": "USD"
+ },
+ "author": {
+  "@type": "Person",
+  "name": "Vinicius Cadengue",
+  "url": "https://realtorvini.com/"
+ }
+}
+</script>
+<meta property="og:site_name" content="Vinicius Cadengue | Miami Real Estate">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://realtorvini.com/images/og-cover.jpg">
+</head>
+<body>
+
+<header class="site-header" id="top">
+  <div class="container header-inner">
+    <a class='brand' href='/'>
+      <img class="brand-logo" src="/images/rsg-logo.svg" alt="Riley Smith Group"><span class="brand-divider" aria-hidden="true"></span>
+      <span class="brand-text">
+        <span class="brand-name">Vinicius Cadengue</span>
+        <span class="brand-sub">Riley Smith Group &middot; Compass</span>
+      </span>
+    </a>
+    <nav class="site-nav" id="site-nav">
+      <a href='/buy'>Buy</a>
+      <a href='/sell'>Sell</a>
+      <a href="/homes-for-sale">Search</a>
+      <a href='/guide'>Guide</a>
+      <a href='/blog/'>Blog</a>
+      <a href='/#about'>About</a>
+      <a href='/#contact'>Contact</a>
+      <a class="nav-lang" href="/pt/" hreflang="pt">Português</a>
+      <a class="nav-lang" href="/es/" hreflang="es">Español</a>
+    </nav>
+    <div class="header-actions">
+      <span class="lang-links lang-badge"><a href="/pt/" hreflang="pt">PT</a>&middot;<a href="/" hreflang="en" aria-current="true">EN</a>&middot;<a href="/es/" hreflang="es">ES</a></span>
+      <a class="btn btn-primary" href="tel:+15128847277">(512) 884-7277</a>
+      <button class="nav-toggle" id="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section class="section listings-hero">
+    <div class="container">
+      <p class="eyebrow">Calculator</p>
+      <h1>What Will a Miami Home Really Cost Per Month?</h1>
+      <p class="section-lede">Mortgage, property tax, insurance and HOA in one number. Change any field; it updates as you type.</p>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="container calc-grid">
+      <form class="calc-inputs" id="calc" onsubmit="return false">
+        <label>Home price (US$)<input type="number" id="price" name="price" value="750000" step="1000" min="0" inputmode="decimal"></label>
+        <label>Down payment (%)<input type="number" id="down" name="down" value="30" step="1" min="0" inputmode="decimal"><small>Foreign national loans usually need a larger down payment. Paying cash? Set the down payment to 100%.</small></label>
+        <label>Interest rate (%)<input type="number" id="rate" name="rate" value="7.0" step="0.01" min="0" inputmode="decimal"><small>Default: U.S. average 30-year fixed (Freddie Mac)</small></label>
+        <label>Loan term (years)<select id="term" name="term"><option>30</option><option>20</option><option>15</option><option>10</option></select></label>
+        <label>Property tax (% of price per year)<input type="number" id="tax" name="tax" value="2.0" step="0.05" min="0" inputmode="decimal"><small>Estimate. Depends on the city and exemptions (homestead for primary residents).</small></label>
+        <label>Home insurance (US$ per year)<input type="number" id="ins" name="ins" value="4000" step="100" min="0" inputmode="decimal"><small>Get a quote: varies a lot by property, age and flood zone. Flood insurance not included.</small></label>
+        <label>HOA / condo fee (US$ per month)<input type="number" id="hoa" name="hoa" value="0" step="25" min="0" inputmode="decimal"></label>
+      </form>
+      <div class="calc-result">
+        <p class="eyebrow">Estimated monthly cost</p>
+        <p class="calc-total" id="o-total">—</p>
+        <ul class="calc-lines">
+          <li><span>Principal &amp; interest</span><b id="o-pi"></b></li>
+          <li><span>Property tax</span><b id="o-tax"></b></li>
+          <li><span>Insurance</span><b id="o-ins"></b></li>
+          <li><span>HOA</span><b id="o-hoa"></b></li>
+          <li class="sub"><span>Down payment</span><b id="o-down"></b></li>
+          <li class="sub"><span>Loan amount</span><b id="o-loan"></b></li>
+        </ul>
+        <p class="calc-rate-src" id="rate-src"></p>
+        <a class="btn btn-wa" id="calc-wa" href="https://wa.me/15128847277" target="_blank" rel="noopener" data-wa="calculator">Ask me on WhatsApp</a>
+      </div>
+    </div>
+    <div class="container"><p class="calc-disclaimer">Estimates only, not a loan offer or financial advice. Rates, taxes, insurance and fees vary; confirm with a licensed lender, insurance agent and the building&#x27;s documents.</p></div>
+  </section>
+
+  <section class="section">
+    <div class="container contact-grid">
+      <div class="contact-copy">
+        <h2>Send me this breakdown</h2>
+        <p>I&#x27;ll check it against real listings and current lender quotes, and reply on WhatsApp or email.</p>
+      </div>
+      <form action='/thank-you' class='contact-form' id='calc-lead' method='POST' name='calculator-lead' data-netlify="true" netlify-honeypot="bot-field">
+        <input type="hidden" name="form-name" value="calculator-lead">
+        <input type="hidden" name="source-page" value="https://realtorvini.com/mortgage-calculator/">
+        <input type="hidden" name="language" value="English">
+        <input type="hidden" name="breakdown" id="breakdown" value="">
+        <p class="visually-hidden" aria-hidden="true"><label>Leave this empty <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+        <label>Name<input type="text" name="name" autocomplete="name" required></label>
+        <label>WhatsApp / Phone<input type="tel" name="phone" autocomplete="tel" required></label>
+        <label>Email<input type="email" name="email" autocomplete="email"></label>
+        <button class="btn btn-primary" type="submit">Send me the breakdown</button>
+      </form>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-col">
+      <div class="footer-brand">
+        <img class="footer-rsg" src="/images/rsg-logo.svg" alt="Riley Smith Group">
+      </div>
+      <p class="footer-name">Vinicius Cadengue</p>
+      <p>Real Estate Advisor &middot; Riley Smith Group at Compass</p>
+      <p>Florida Real Estate License #36244857</p>
+      <p class="footer-fh">Equal Housing Opportunity</p>
+    </div>
+    <div class="footer-col">
+      <h4>Contact</h4>
+      <p><a href="tel:+15128847277">(512) 884-7277</a></p>
+      <p><a href="mailto:vinicius.cadengue@compass.com">vinicius.cadengue@compass.com</a></p>
+      <p>2550 South Bayshore Drive, Suite 205<br>Miami, FL 33133</p>
+    </div>
+    <div class="footer-col">
+      <h4>Explore</h4>
+      <p><a href="/neighborhoods/">Neighborhoods</a> &middot; <a href="/mortgage-calculator/">Cost Calculator</a></p>
+      <p><a href="/pt/guia/">Guia grátis (PT)</a> &middot; <a href="/pt/mercado/">Mercado em português</a></p>
+      <p><a href="/pt/">Em Português</a> &middot; <a href="/es/">En Español</a></p>
+      <p><a href="/homes-for-sale">Search Homes</a></p>
+      <p><a href='/buy'>Buy</a> &middot; <a href='/sell'>Sell</a></p>
+      <p><a href='/guide'>Miami Guide</a> &middot; <a href='/blog/'>Blog</a></p>
+      <p><a href="https://rileysmithgroup.com/" target="_blank" rel="noopener">Riley Smith Group</a></p>
+    </div>
+    <div class="footer-col">
+      <h4>Brokerage</h4>
+      <img src="/images/compass-logo.png" alt="Compass" class="footer-logo" onerror="this.style.display='none';">
+    </div>
+    <p class="footer-legal">The Riley Smith Group is a team of real estate agents affiliated with Compass. Compass Florida, LLC d/b/a Compass is a licensed real estate broker and abides by equal housing opportunity laws. All material presented herein is intended for informational purposes only. Information is compiled from sources deemed reliable but is subject to errors, omissions, changes in price, condition, sale, or withdrawal without notice.</p>
+    <p class="footer-copy">&copy; <span id="year"></span> Vinicius Cadengue. All rights reserved.</p>
+  </div>
+</footer>
+
+<script src="/js/main.js"></script>
+<script>
+(function(){
+  var T={"wa": "Hi Vini! I used your calculator: price {price}, {down}% down, rate {rate}%, about {total}/month. Can you help me?"}, lang="en";
+  var fmt=function(n){return "US$ "+Math.round(n).toLocaleString(lang==="pt"?"pt-BR":"en-US");};
+  var $=function(id){return document.getElementById(id);};
+  function calc(){
+    var p=+$("price").value||0, d=Math.min(+$("down").value||0,100), r=(+$("rate").value||0)/1200, n=(+$("term").value||30)*12;
+    var loan=p*(1-d/100), pi=loan>0?(r>0?loan*r/(1-Math.pow(1+r,-n)):loan/n):0;
+    var tax=p*(+$("tax").value||0)/100/12, ins=(+$("ins").value||0)/12, hoa=+$("hoa").value||0, total=pi+tax+ins+hoa;
+    $("o-total").textContent=fmt(total); $("o-pi").textContent=fmt(pi); $("o-tax").textContent=fmt(tax); $("o-ins").textContent=fmt(ins);
+    $("o-hoa").textContent=fmt(hoa); $("o-down").textContent=fmt(p*d/100); $("o-loan").textContent=fmt(loan);
+    var msg=T.wa.replace("{price}",fmt(p)).replace("{down}",d).replace("{rate}",$("rate").value).replace("{total}",fmt(total));
+    $("calc-wa").href="https://wa.me/15128847277?text="+encodeURIComponent(msg);
+    $("breakdown").value="price "+fmt(p)+" | down "+d+"% | rate "+$("rate").value+"% | term "+$("term").value+"y | tax "+$("tax").value+"% | ins "+$("ins").value+"/yr | HOA "+hoa+"/mo | total "+fmt(total)+"/mo";
+  }
+  document.querySelectorAll("#calc input,#calc select").forEach(function(el){el.addEventListener("input",calc);el.addEventListener("change",calc);});
+  fetch("/data/market.json",{cache:"no-store"}).then(function(r){return r.ok?r.json():null;}).then(function(m){
+    if(m&&m.rate30){$("rate").value=m.rate30; $("rate-src").textContent=(lang==="pt"?"Taxa padrão: média de 30 anos da Freddie Mac em ":"Default rate: Freddie Mac 30-year average as of ")+new Date(m.rate_date+"T12:00:00").toLocaleDateString(lang==="pt"?"pt-BR":"en-US",{day:"numeric",month:"long",year:"numeric"})+".";}
+    calc();
+  }).catch(calc);
+  calc();
+})();
+</script>
+
+<!-- WA:START --><a class="wa-float" href="https://wa.me/15128847277?text=Hi%20Vini%21%20I%20found%20your%20website%20realtorvini.com%20and%20I%27d%20like%20to%20talk%20about%20Miami%20real%20estate." target="_blank" rel="noopener" aria-label="WhatsApp me" data-wa="float"><svg viewBox="0 0 32 32" width="28" height="28" aria-hidden="true"><path fill="#fff" d="M16 3C9 3 3.3 8.6 3.3 15.6c0 2.5.7 4.8 1.9 6.8L3 29l6.8-2.1c1.9 1 4 1.6 6.2 1.6 7 0 12.7-5.6 12.7-12.6S23 3 16 3zm0 23.1c-2 0-3.9-.6-5.5-1.6l-.4-.2-4 1.2 1.3-3.9-.3-.4c-1.1-1.7-1.7-3.6-1.7-5.6C5.4 9.8 10.2 5 16 5s10.6 4.8 10.6 10.6S21.9 26.1 16 26.1zm5.8-7.9c-.3-.2-1.9-.9-2.2-1s-.5-.2-.7.2-.8 1-1 1.2-.4.2-.7.1c-.3-.2-1.3-.5-2.5-1.5-.9-.8-1.5-1.8-1.7-2.1s0-.5.1-.6l.5-.6c.2-.2.2-.4.3-.6.1-.2 0-.4 0-.6s-.7-1.7-1-2.3c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.6.1-.9.4s-1.2 1.1-1.2 2.7 1.2 3.2 1.4 3.4c.2.2 2.4 3.6 5.7 5 .8.3 1.4.5 1.9.7.8.3 1.5.2 2.1.1.6-.1 1.9-.8 2.2-1.5.3-.7.3-1.4.2-1.5-.1-.2-.3-.3-.6-.4z"/></svg><span>WhatsApp me</span></a><!-- WA:END -->
+<!-- TRACK:START --><script>window.GA_ID="G-5VPX5G7R05";</script><script src="/js/track.js" defer></script><!-- TRACK:END -->
+<!-- RELAY:START --><script src="/js/form-relay.js" defer></script><!-- RELAY:END -->
+</body>
+</html>

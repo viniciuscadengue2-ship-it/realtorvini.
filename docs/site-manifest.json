@@ -1,0 +1,761 @@
+{
+ "site": "https://realtorvini.com",
+ "generated": "2026-11-15T10:50:04Z",
+ "files": [
+  {
+   "path": "404.html",
+   "size": 6060,
+   "sha1": "9a6fbe404daf6a7b480764c4978113a3627b97f9"
+  },
+  {
+   "path": "assets/listings.css",
+   "size": 15346,
+   "sha1": "bf876689f029c775fad4481524ab5e697de374e6"
+  },
+  {
+   "path": "blog/buying-real-estate-in-miami-as-an-international-buyer.html",
+   "size": 11135,
+   "sha1": "a0d36b29047271ebf09e9737d788b525a125ab1e"
+  },
+  {
+   "path": "blog/coconut-grove-real-estate-guide.html",
+   "size": 11125,
+   "sha1": "b6eaf0d65090305c1a26aaa7d5c9444e2e5bb6f0"
+  },
+  {
+   "path": "blog/condo-vs-single-family-home-in-miami.html",
+   "size": 10849,
+   "sha1": "4da15e78d7e7d1cc82f19fa6f481892602fbe10a"
+  },
+  {
+   "path": "blog/daily/feed.xml",
+   "size": 3876,
+   "sha1": "8282dac5e792c51355771648be11787eee7a997a"
+  },
+  {
+   "path": "blog/daily/index.html",
+   "size": 13406,
+   "sha1": "55fd74a625b0a2723cc82776b5bed56d8e101b38"
+  },
+  {
+   "path": "blog/daily/miami-real-estate-news-november-11-2026.html",
+   "size": 23893,
+   "sha1": "7e0acecf769d7f2ac3a2eccc6bde783ade2b9bf6"
+  },
+  {
+   "path": "blog/daily/miami-real-estate-news-november-12-2026.html",
+   "size": 26397,
+   "sha1": "da612cf900e4ca227cb280cd551f723a6941ee34"
+  },
+  {
+   "path": "blog/daily/miami-real-estate-news-november-13-2026.html",
+   "size": 25842,
+   "sha1": "a06be6a6f8f34cc9cf0ac4fb4c0a390ea8c22178"
+  },
+  {
+   "path": "blog/daily/miami-real-estate-news-november-14-2026.html",
+   "size": 25369,
+   "sha1": "5513b7017996e84eab4efd47e69a3f4eea07cacb"
+  },
+  {
+   "path": "blog/daily/miami-real-estate-news-november-15-2026.html",
+   "size": 25250,
+   "sha1": "3ad9f0f0eff4adf858b4cad4b6a084030cd2abba"
+  },
+  {
+   "path": "blog/daily/miami-real-estate-news-october-29-2026.html",
+   "size": 22624,
+   "sha1": "9ff2fd78c40d44e1b49046804b47d68b3fbbe647"
+  },
+  {
+   "path": "blog/daily/posts.json",
+   "size": 2785,
+   "sha1": "d93d1faf055463b88b3a4cf9fb8a704e480a1f10"
+  },
+  {
+   "path": "blog/index.html",
+   "size": 9430,
+   "sha1": "5a13fe16864d749204d080ebc791b810bb2fdc20"
+  },
+  {
+   "path": "buy.html",
+   "size": 8844,
+   "sha1": "665ec6a5b48cdedd647e09b39ac8f6a77a36d0f7"
+  },
+  {
+   "path": "css/styles.css",
+   "size": 38210,
+   "sha1": "3f21b8ac74cec789005b58ec6bffff5caaf99b87"
+  },
+  {
+   "path": "data/market.json",
+   "size": 89,
+   "sha1": "056ed534e6aeaca5fd4d6f55802ef1f9289e3b9d"
+  },
+  {
+   "path": "es/index.html",
+   "size": 20285,
+   "sha1": "1de08e99f794cbb73583921cd2f0d8ed159fac44"
+  },
+  {
+   "path": "guias/guia-comprador-brasileiro-miami.pdf",
+   "size": 496589,
+   "sha1": "73bf73606ab74d9293e56a65d1631972b29e81b0"
+  },
+  {
+   "path": "guide.html",
+   "size": 9922,
+   "sha1": "ba9b75e61f4f30869c1296884e7198eac44588e0"
+  },
+  {
+   "path": "homes-for-sale.html",
+   "size": 15628,
+   "sha1": "2d5cf9f597adf7827ab06ffd33a1f0032d1f75f6"
+  },
+  {
+   "path": "images/compass-logo.png",
+   "size": 21431,
+   "sha1": "c0484d5e10b493a03667b24b89e9d7a1c33617e3"
+  },
+  {
+   "path": "images/daily/2026-11-11.jpg",
+   "size": 85002,
+   "sha1": "be13d860066ee751aef31979b63b29399a1d3697"
+  },
+  {
+   "path": "images/daily/2026-11-12.jpg",
+   "size": 86328,
+   "sha1": "c41fec701ab3cabe0766aa914b7ae2dfecd64583"
+  },
+  {
+   "path": "images/daily/2026-11-13.jpg",
+   "size": 83928,
+   "sha1": "78fdca4be208d75cafe1ce2c136bc68e938a0b95"
+  },
+  {
+   "path": "images/daily/2026-11-14.jpg",
+   "size": 85450,
+   "sha1": "dc50ba9737ff811296ec215adba4fb5ead5e9ed0"
+  },
+  {
+   "path": "images/daily/2026-11-15.jpg",
+   "size": 85740,
+   "sha1": "442e56dff0ee744aabb2fe3abdbb6aecf8b74092"
+  },
+  {
+   "path": "images/daily/pt-2026-11-11.jpg",
+   "size": 84149,
+   "sha1": "bbe5796be3b7b9871faf4bbc1a093c5fe56cc054"
+  },
+  {
+   "path": "images/daily/pt-2026-11-13.jpg",
+   "size": 83968,
+   "sha1": "3252111976824ca39065022b44f51eb3bc37730c"
+  },
+  {
+   "path": "images/favicon.svg",
+   "size": 248,
+   "sha1": "fd48845eaf5927a8111d997f49c2c5b59d511eb9"
+  },
+  {
+   "path": "images/hero-poster-wide.jpg",
+   "size": 82756,
+   "sha1": "00fac56794978816293eea31931f2e13ae2097cd"
+  },
+  {
+   "path": "images/hero-poster.jpg",
+   "size": 69178,
+   "sha1": "273d567951493d5c190e9617e72780c8e885cacb"
+  },
+  {
+   "path": "images/hero-video-wide.mp4",
+   "size": 3657468,
+   "sha1": "0871d138f738de2e916bdddfd0a63a9312f6ccd1"
+  },
+  {
+   "path": "images/hero-video.mp4",
+   "size": 3239923,
+   "sha1": "5dfc8ca39d68a2d98a4cd9e7046c93e45dde08e0"
+  },
+  {
+   "path": "images/og-cover-es.jpg",
+   "size": 87076,
+   "sha1": "6d783e4012b159957968d1598371301c5a9b58fd"
+  },
+  {
+   "path": "images/og-cover-pt.jpg",
+   "size": 86920,
+   "sha1": "7550485b7e1fc9255f8090c58b7026f27d597a76"
+  },
+  {
+   "path": "images/og-cover.jpg",
+   "size": 86441,
+   "sha1": "b84339fb6ff14c31dd84b952f7f54035c720d746"
+  },
+  {
+   "path": "images/og-guia.jpg",
+   "size": 90495,
+   "sha1": "c7b1acdcf0afa9392283daab375a978eb12b2da8"
+  },
+  {
+   "path": "images/rsg-logo.svg",
+   "size": 208549,
+   "sha1": "ec82199940344c04399b1d296ade1e796303e705"
+  },
+  {
+   "path": "images/team/brickell.jpg",
+   "size": 218966,
+   "sha1": "f01e0982140f185f10cb6c2cf46940046656b130"
+  },
+  {
+   "path": "images/team/coconut-grove-waterfront.jpg",
+   "size": 631126,
+   "sha1": "c2baa2998d86bd79b64aa71e234c4ec0801636ae"
+  },
+  {
+   "path": "images/team/coconut-grove.jpg",
+   "size": 151396,
+   "sha1": "1807c43e06d47efcae4418fabdcb88eae33e7256"
+  },
+  {
+   "path": "images/team/coral-gables.jpg",
+   "size": 328683,
+   "sha1": "21ce6ae89ab4f5b30834915f926a512e413f2fc7"
+  },
+  {
+   "path": "images/team/gated-communities.jpg",
+   "size": 351930,
+   "sha1": "76c6508c40baf59eca2f2da4ea054be523f60089"
+  },
+  {
+   "path": "images/team/key-biscayne.jpg",
+   "size": 127667,
+   "sha1": "1bda4180a36054bda59c3199a5227acecba12c79"
+  },
+  {
+   "path": "images/team/miami-band.jpg",
+   "size": 96817,
+   "sha1": "cefdced5bdb18f63b74ce8634992dcf4cbd731f3"
+  },
+  {
+   "path": "images/vinicius-headshot.jpg",
+   "size": 361529,
+   "sha1": "d23bc9b2d23674128cb61a990cacceffec791186"
+  },
+  {
+   "path": "index.html",
+   "size": 36371,
+   "sha1": "7a337aee0f12a0886461bf360cc745032f10ec67"
+  },
+  {
+   "path": "js/main.js",
+   "size": 1656,
+   "sha1": "cbb228f06bf0d0d7bffde349c6c7598da09d5e2d"
+  },
+  {
+   "path": "js/track.js",
+   "size": 1320,
+   "sha1": "fe1733c0de75a606445181d4d7f47cdf8680b84f"
+  },
+  {
+   "path": "llms.txt",
+   "size": 2602,
+   "sha1": "3012d2a6936b8cecb1cb6dc3449ec2fec45e827d"
+  },
+  {
+   "path": "mortgage-calculator/index.html",
+   "size": 13276,
+   "sha1": "d63c6e5f220243afb3a097c2939a067853a78efa"
+  },
+  {
+   "path": "neighborhoods/aventura/index.html",
+   "size": 13163,
+   "sha1": "52b73b7143b6d6bee1c76d33e3d8677b420ad0c4"
+  },
+  {
+   "path": "neighborhoods/bal-harbour/index.html",
+   "size": 13177,
+   "sha1": "6a398ce6501acce69ed86fc6cf36b7ed3c290a4b"
+  },
+  {
+   "path": "neighborhoods/bay-harbor-islands/index.html",
+   "size": 13424,
+   "sha1": "345978198451cab3b863c0130b7dcd375b2b1126"
+  },
+  {
+   "path": "neighborhoods/brickell/index.html",
+   "size": 14523,
+   "sha1": "b92cc057b0bc29919446228cb84bfa6db0977c4b"
+  },
+  {
+   "path": "neighborhoods/coconut-grove/index.html",
+   "size": 13938,
+   "sha1": "17963059525e5461f0776ee51e3128d105b35986"
+  },
+  {
+   "path": "neighborhoods/coral-gables/index.html",
+   "size": 14106,
+   "sha1": "47bdd1927c6c956a6c8b1f480f2eb2866c370e3f"
+  },
+  {
+   "path": "neighborhoods/coral-springs/index.html",
+   "size": 13245,
+   "sha1": "e352b8955ef7f5900d1e5e067c240212f4f51835"
+  },
+  {
+   "path": "neighborhoods/cutler-bay/index.html",
+   "size": 12796,
+   "sha1": "a68388b4602905110fa06f60b96c9a4a5d2c39a8"
+  },
+  {
+   "path": "neighborhoods/davie/index.html",
+   "size": 13179,
+   "sha1": "c9c1b4be37b9946953739d1b01b2aee748c57c56"
+  },
+  {
+   "path": "neighborhoods/design-district/index.html",
+   "size": 13543,
+   "sha1": "1bfc63e79d4549c7b620c53ecf6b5c076bd6cf4d"
+  },
+  {
+   "path": "neighborhoods/doral/index.html",
+   "size": 12885,
+   "sha1": "f27bbd42f32e9791bd629489537039add6dd670a"
+  },
+  {
+   "path": "neighborhoods/downtown-miami/index.html",
+   "size": 14108,
+   "sha1": "4d604dc1a9b24d2da2ecf62f462dcfb4c04393b9"
+  },
+  {
+   "path": "neighborhoods/edgewater/index.html",
+   "size": 13516,
+   "sha1": "881ae5bf835410e4df47cb6a16d7fdeb7b2653a2"
+  },
+  {
+   "path": "neighborhoods/fisher-island/index.html",
+   "size": 13109,
+   "sha1": "7d0b50d030be730c7735d20d0a8859b56cb9e73f"
+  },
+  {
+   "path": "neighborhoods/fort-lauderdale/index.html",
+   "size": 13929,
+   "sha1": "f260724da3ec2fa42b730daa1d35fe0b3ebcc907"
+  },
+  {
+   "path": "neighborhoods/hallandale-beach/index.html",
+   "size": 13799,
+   "sha1": "ef3ec49288062a6d913abcc32666a3fcca4b9655"
+  },
+  {
+   "path": "neighborhoods/hialeah/index.html",
+   "size": 12635,
+   "sha1": "f56acc9b96a325b302acfe244a68a51c20178768"
+  },
+  {
+   "path": "neighborhoods/hollywood/index.html",
+   "size": 13459,
+   "sha1": "b5f17277d5061736568b42732956d9a32748818d"
+  },
+  {
+   "path": "neighborhoods/homestead/index.html",
+   "size": 12976,
+   "sha1": "caf3028c9bb9497f8973befa1e4dbba82a8a6269"
+  },
+  {
+   "path": "neighborhoods/index.html",
+   "size": 17163,
+   "sha1": "d42c46fb8e2a5cc5d21062e6f9dc2ebae72a4eac"
+  },
+  {
+   "path": "neighborhoods/kendall/index.html",
+   "size": 13407,
+   "sha1": "47f0da7a78e3090a1fd3240657ea441a0a1a4c04"
+  },
+  {
+   "path": "neighborhoods/key-biscayne/index.html",
+   "size": 14221,
+   "sha1": "6013b8735c46d2be37cd04a538c615acc24a1c05"
+  },
+  {
+   "path": "neighborhoods/lighthouse-point/index.html",
+   "size": 13583,
+   "sha1": "6f9c6af80c4b148a4f7d087e3aa4b05364f9f633"
+  },
+  {
+   "path": "neighborhoods/little-havana/index.html",
+   "size": 13380,
+   "sha1": "f917894c6190da5b22a2b36373bc1fa76301c428"
+  },
+  {
+   "path": "neighborhoods/miami-beach/index.html",
+   "size": 14235,
+   "sha1": "1bfc82e8df011e294deabdaff3959b21f1d7bda8"
+  },
+  {
+   "path": "neighborhoods/miami-lakes/index.html",
+   "size": 12672,
+   "sha1": "f820de2123371060763181b78bec9ed0cbdc0cee"
+  },
+  {
+   "path": "neighborhoods/miami-shores/index.html",
+   "size": 12891,
+   "sha1": "dacc5297e605d512102a373f2fd3d607af8966de"
+  },
+  {
+   "path": "neighborhoods/midtown/index.html",
+   "size": 13266,
+   "sha1": "b0feef84d7a432104ae23bf97b89168065a8a578"
+  },
+  {
+   "path": "neighborhoods/miramar/index.html",
+   "size": 13073,
+   "sha1": "be976643f837e748045fa28fae85209c7f636198"
+  },
+  {
+   "path": "neighborhoods/north-miami/index.html",
+   "size": 12776,
+   "sha1": "e187b72bc8d1b33830bffabbe82a995ac534612a"
+  },
+  {
+   "path": "neighborhoods/palmetto-bay/index.html",
+   "size": 13021,
+   "sha1": "b2d16c1b4be29faea7c0d5594d3adae4a5c12b90"
+  },
+  {
+   "path": "neighborhoods/parkland/index.html",
+   "size": 13082,
+   "sha1": "aca5b526a11964d5f7f82308d3af24a555038671"
+  },
+  {
+   "path": "neighborhoods/pembroke-pines/index.html",
+   "size": 13448,
+   "sha1": "23ecaa45a2caf81f1eec16b26613a094a204325d"
+  },
+  {
+   "path": "neighborhoods/pinecrest/index.html",
+   "size": 12928,
+   "sha1": "7359b6e3c6f8e4cd0c884ba752d4e126eb72dd96"
+  },
+  {
+   "path": "neighborhoods/plantation/index.html",
+   "size": 13254,
+   "sha1": "36cda25aa4aba2546756c7d27ff0a6c61db61f05"
+  },
+  {
+   "path": "neighborhoods/pompano-beach/index.html",
+   "size": 13447,
+   "sha1": "868f776c3374a74c761fd99e1f73403e27a884ac"
+  },
+  {
+   "path": "neighborhoods/south-miami/index.html",
+   "size": 13058,
+   "sha1": "ecccb318749cdd1aa6b496b43b682628434e0185"
+  },
+  {
+   "path": "neighborhoods/sunny-isles-beach/index.html",
+   "size": 13714,
+   "sha1": "bcd46f670af8c1bc8c9bddb944ae8ad390d9e134"
+  },
+  {
+   "path": "neighborhoods/surfside/index.html",
+   "size": 13198,
+   "sha1": "da52dd0edafd1e68618ffd59aee8e84c87b44cbd"
+  },
+  {
+   "path": "neighborhoods/upper-east-side/index.html",
+   "size": 13623,
+   "sha1": "1930b571ae2039d81a5deffc8494d0a50be1dcfa"
+  },
+  {
+   "path": "neighborhoods/westchester/index.html",
+   "size": 12785,
+   "sha1": "aabc3800de850abadc4c9b57290d7a41b70bf731"
+  },
+  {
+   "path": "neighborhoods/weston/index.html",
+   "size": 13415,
+   "sha1": "bb5399fc8ce234979ea17e3c4153719cb0db4a83"
+  },
+  {
+   "path": "neighborhoods/wynwood/index.html",
+   "size": 13232,
+   "sha1": "deabfcd06f88f32f733a75e4b7c427e80ae432db"
+  },
+  {
+   "path": "pt/bairros/aventura/index.html",
+   "size": 13334,
+   "sha1": "8d540cea4301fb6b2ff2da81a1531e49b3f6bd3e"
+  },
+  {
+   "path": "pt/bairros/bal-harbour/index.html",
+   "size": 13414,
+   "sha1": "f52fb28dfead280356a67bc94b660a6805576049"
+  },
+  {
+   "path": "pt/bairros/bay-harbor-islands/index.html",
+   "size": 13573,
+   "sha1": "85132646eca0fd2ae1288bf124305241fc4488bf"
+  },
+  {
+   "path": "pt/bairros/brickell/index.html",
+   "size": 14814,
+   "sha1": "69f6b0349bd58f75f6d01bebbc672ebfa909e53f"
+  },
+  {
+   "path": "pt/bairros/coconut-grove/index.html",
+   "size": 13984,
+   "sha1": "dad9a3bc1a850d97a8ada4eb25f33e7ae67b3b5c"
+  },
+  {
+   "path": "pt/bairros/coral-gables/index.html",
+   "size": 14322,
+   "sha1": "c94f9d46e1cde4a70b6ae077c2fefb2cf3da7b12"
+  },
+  {
+   "path": "pt/bairros/coral-springs/index.html",
+   "size": 13431,
+   "sha1": "bf2500bde3cd559aa626a6d840ca30611c6bca59"
+  },
+  {
+   "path": "pt/bairros/cutler-bay/index.html",
+   "size": 12994,
+   "sha1": "f08d6cdd9d1192ad996a96eea0c4ba52253cdeb9"
+  },
+  {
+   "path": "pt/bairros/davie/index.html",
+   "size": 13311,
+   "sha1": "88b4ecddfe9da8dcad780c717d0e01fc9154e338"
+  },
+  {
+   "path": "pt/bairros/design-district/index.html",
+   "size": 13591,
+   "sha1": "3e6d72dd737b4d1a50aff135b30beb0670b97f21"
+  },
+  {
+   "path": "pt/bairros/doral/index.html",
+   "size": 13091,
+   "sha1": "3ad7ba8c92df49cb556b80e9783ce08fe9a90b29"
+  },
+  {
+   "path": "pt/bairros/downtown-miami/index.html",
+   "size": 14208,
+   "sha1": "cddf8eb40b9bfe3df006d074cc34459e613fc809"
+  },
+  {
+   "path": "pt/bairros/edgewater/index.html",
+   "size": 13735,
+   "sha1": "e96fe9dba5406a78116c6e304929f4e3b44e37c2"
+  },
+  {
+   "path": "pt/bairros/fisher-island/index.html",
+   "size": 13241,
+   "sha1": "ec7558b9c933285733f6d34b2c26b70c2aaf2895"
+  },
+  {
+   "path": "pt/bairros/fort-lauderdale/index.html",
+   "size": 14108,
+   "sha1": "d35af32f712054096e7c73c680ee6ca5c373b61d"
+  },
+  {
+   "path": "pt/bairros/hallandale-beach/index.html",
+   "size": 13977,
+   "sha1": "f6f917a66187574e1e0af4a56bcb969fb97c7be4"
+  },
+  {
+   "path": "pt/bairros/hialeah/index.html",
+   "size": 12775,
+   "sha1": "f3d4aa7d96d90cbbbb1b80bb9eb90ddecb380472"
+  },
+  {
+   "path": "pt/bairros/hollywood/index.html",
+   "size": 13625,
+   "sha1": "7a6200a4c4737baddd952be865f687b349af39b9"
+  },
+  {
+   "path": "pt/bairros/homestead/index.html",
+   "size": 13169,
+   "sha1": "4d19d0f5c8c4c8c80e07e7ce2e62a1ff88f4fc68"
+  },
+  {
+   "path": "pt/bairros/index.html",
+   "size": 16867,
+   "sha1": "ed22a040413a5ef254bb502f82dff91db9f81025"
+  },
+  {
+   "path": "pt/bairros/kendall/index.html",
+   "size": 13486,
+   "sha1": "9a3f3a7b01e7bea2e29bafcdf05b29c5929fd164"
+  },
+  {
+   "path": "pt/bairros/key-biscayne/index.html",
+   "size": 14315,
+   "sha1": "638e0a5b9a25070277f1983fed81d497a831adaf"
+  },
+  {
+   "path": "pt/bairros/lighthouse-point/index.html",
+   "size": 13762,
+   "sha1": "aa761486f36c7c7b27878a07285528a9a9d5c39f"
+  },
+  {
+   "path": "pt/bairros/little-havana/index.html",
+   "size": 13588,
+   "sha1": "f507c04826b559c1e57f133d5c32175d41a16a53"
+  },
+  {
+   "path": "pt/bairros/miami-beach/index.html",
+   "size": 14480,
+   "sha1": "74611f7e6da7c1b34fd3e3c30cbf2b2acdd39fe5"
+  },
+  {
+   "path": "pt/bairros/miami-lakes/index.html",
+   "size": 12836,
+   "sha1": "c76be018c6f7913acbd82636a2283e1b81bb290e"
+  },
+  {
+   "path": "pt/bairros/miami-shores/index.html",
+   "size": 13044,
+   "sha1": "e678ac70ebe4ace20d1e2bbbfbaa615af591c1ed"
+  },
+  {
+   "path": "pt/bairros/midtown/index.html",
+   "size": 13401,
+   "sha1": "7b825dc28474d875b20161af7e1b13ae5ab09ef8"
+  },
+  {
+   "path": "pt/bairros/miramar/index.html",
+   "size": 13284,
+   "sha1": "00358426dedfff42c52a00e70654953d98c993d4"
+  },
+  {
+   "path": "pt/bairros/north-miami/index.html",
+   "size": 12969,
+   "sha1": "9b5ca10e1ff03423eded64980306afc31d646fa7"
+  },
+  {
+   "path": "pt/bairros/palmetto-bay/index.html",
+   "size": 13246,
+   "sha1": "61f55f6e89090f6d2512ff10ae7bbb2d163c787c"
+  },
+  {
+   "path": "pt/bairros/parkland/index.html",
+   "size": 13293,
+   "sha1": "6dad963015a13ff76101ae1ea481547111eee892"
+  },
+  {
+   "path": "pt/bairros/pembroke-pines/index.html",
+   "size": 13647,
+   "sha1": "5731cbfbc43617b8ee09d75c55129bf6b28ccbfb"
+  },
+  {
+   "path": "pt/bairros/pinecrest/index.html",
+   "size": 13213,
+   "sha1": "e0a903e64ed5fe7f8602c623db4796f77f98ec95"
+  },
+  {
+   "path": "pt/bairros/plantation/index.html",
+   "size": 13374,
+   "sha1": "dcd0778b89c3c20c2fe2e3281c68a92150b55ddc"
+  },
+  {
+   "path": "pt/bairros/pompano-beach/index.html",
+   "size": 13584,
+   "sha1": "4d15162b5e81e51e8dcf1449d28a99b9e6f9fbad"
+  },
+  {
+   "path": "pt/bairros/south-miami/index.html",
+   "size": 13184,
+   "sha1": "b41caacfac2e02f3d0e4de24c6fe0a111f11b634"
+  },
+  {
+   "path": "pt/bairros/sunny-isles-beach/index.html",
+   "size": 13961,
+   "sha1": "6a97e3db8191c9c661a88db540cedaf770d0d30f"
+  },
+  {
+   "path": "pt/bairros/surfside/index.html",
+   "size": 13474,
+   "sha1": "004ad4581fbf8843400f5af7bf6e90609fe6553d"
+  },
+  {
+   "path": "pt/bairros/upper-east-side/index.html",
+   "size": 13792,
+   "sha1": "1bc97a6377e86e0211df2494c393447728fc4ea7"
+  },
+  {
+   "path": "pt/bairros/westchester/index.html",
+   "size": 12946,
+   "sha1": "262c974ff85252c475ec40e6532cae8063f4518c"
+  },
+  {
+   "path": "pt/bairros/weston/index.html",
+   "size": 13639,
+   "sha1": "c435e3a537d7a11420934bb09d5a1660c4e97e87"
+  },
+  {
+   "path": "pt/bairros/wynwood/index.html",
+   "size": 13366,
+   "sha1": "fd27c3160f3d84c357563114f037717ee1bbe285"
+  },
+  {
+   "path": "pt/calculadora/index.html",
+   "size": 13461,
+   "sha1": "b08924eb443fa365597a8645073218c985f51cfe"
+  },
+  {
+   "path": "pt/guia/index.html",
+   "size": 9136,
+   "sha1": "6bd10a11bc5ff1520594f30f2539e0f052fba3ea"
+  },
+  {
+   "path": "pt/guia/obrigado/index.html",
+   "size": 6786,
+   "sha1": "b9e7d5298da126f107269426d2ac09b64e1d6a76"
+  },
+  {
+   "path": "pt/index.html",
+   "size": 23313,
+   "sha1": "0f86be97737a5a3ea7d19f577121674f6d61e54e"
+  },
+  {
+   "path": "pt/mercado/index.html",
+   "size": 9255,
+   "sha1": "f8b09beda6e46d3dbf6bb1194ec63b651e6ea567"
+  },
+  {
+   "path": "pt/mercado/mercado-imobiliario-miami-semana-11-de-novembro-de-2026.html",
+   "size": 20989,
+   "sha1": "2cd99662968aedfa04f6a77df1fdb2d220ddb28d"
+  },
+  {
+   "path": "pt/mercado/mercado-imobiliario-miami-semana-13-de-novembro-de-2026.html",
+   "size": 21019,
+   "sha1": "48abd301dc2f778f4622640936f563bc01c71deb"
+  },
+  {
+   "path": "pt/mercado/posts.json",
+   "size": 1015,
+   "sha1": "6ec805802c4ad8c0bd0152033e2ae89477792326"
+  },
+  {
+   "path": "robots.txt",
+   "size": 69,
+   "sha1": "992902518333d87726edbc3e0ca2c7089c4dddf4"
+  },
+  {
+   "path": "sell.html",
+   "size": 13153,
+   "sha1": "2fea8699736dc60836322ca024e6ab63ce48d443"
+  },
+  {
+   "path": "sitemap.xml",
+   "size": 17638,
+   "sha1": "93005b563286ccb07c0a8570b1db3be93829731a"
+  },
+  {
+   "path": "thank-you.html",
+   "size": 6355,
+   "sha1": "2b16d2c72d0a87e673499bae6f37e82efc3a6dbc"
+  }
+ ]
+}

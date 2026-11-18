@@ -1,0 +1,14 @@
+# One search page: old URLs forward to it
+/listings.html     /homes-for-sale   301!
+/listings          /homes-for-sale   301!
+/property/*        /homes-for-sale   301!
+# Portuguese / Spanish shortcuts
+/imoveis           /pt/              301
+/portugues         /pt/              301
+/espanol           /es/              301
+# Never serve internal files
+/_build/*          /404              404
+/_archive/*        /404              404
+/netlify/*         /404              404
+/netlify.toml      /404              404
+/README.md         /404              404

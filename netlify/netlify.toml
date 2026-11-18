@@ -1,0 +1,8 @@
+[build]
+  publish = "."
+  command = "bash _build/fetch-team-images.sh"
+
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=2592000"
