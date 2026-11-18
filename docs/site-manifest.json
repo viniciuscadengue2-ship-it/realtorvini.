@@ -1,6 +1,6 @@
 {
  "site": "https://realtorvini.com",
- "generated": "2026-11-18T20:05:38Z",
+ "generated": "2026-11-18T20:13:24Z",
  "files": [
   {
    "path": "404.html",
@@ -279,8 +279,8 @@
   },
   {
    "path": "index.html",
-   "size": 37479,
-   "sha1": "cdd08b28549ca04871b911586f1b1276dadc72ad"
+   "size": 37466,
+   "sha1": "87c9a3dd65c8bc018746e5ba7decbceb2d0c2ef7"
   },
   {
    "path": "js/form-relay.js",
