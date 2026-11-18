@@ -767,3 +767,9 @@ a.listing-photo-wrap:hover .listing-photo-img { transform: scale(1.04); }
 .hood-all-list{columns:3;column-gap:28px;margin:18px 0 0;padding:0;list-style:none}.hood-all-list li{margin:0 0 6px}
 @media (max-width:820px){.hood-all-list{columns:2}}
 /* LEADGEN:END */
+/* REVIEWS:START */
+.testimonial-grid{display:flex;flex-wrap:wrap;justify-content:center}
+.testimonial-grid .testimonial-card{flex:0 1 calc((100% - 56px)/3);margin:0}
+@media (max-width:900px){.testimonial-grid .testimonial-card{flex-basis:100%}}
+.testimonial-card .t-note{font-weight:400;opacity:.75}
+/* REVIEWS:END */

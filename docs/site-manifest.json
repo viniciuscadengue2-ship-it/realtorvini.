@@ -1,6 +1,6 @@
 {
  "site": "https://realtorvini.com",
- "generated": "2026-11-18T20:04:17Z",
+ "generated": "2026-11-18T20:05:38Z",
  "files": [
   {
    "path": "404.html",
@@ -99,8 +99,8 @@
   },
   {
    "path": "css/styles.css",
-   "size": 38210,
-   "sha1": "3f21b8ac74cec789005b58ec6bffff5caaf99b87"
+   "size": 38529,
+   "sha1": "a67c315344a4fac8fd89696a0eb68d16916ea8c2"
   },
   {
    "path": "data/market.json",
@@ -279,8 +279,8 @@
   },
   {
    "path": "index.html",
-   "size": 36457,
-   "sha1": "1cc797e275292ff2e23fd74e686a8bc1244489b1"
+   "size": 37479,
+   "sha1": "cdd08b28549ca04871b911586f1b1276dadc72ad"
   },
   {
    "path": "js/form-relay.js",
