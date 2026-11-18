@@ -1,6 +1,6 @@
 {
  "site": "https://realtorvini.com",
- "generated": "2026-11-18T19:49:13Z",
+ "generated": "2026-11-18T20:04:17Z",
  "files": [
   {
    "path": "404.html",
@@ -34,13 +34,13 @@
   },
   {
    "path": "blog/daily/feed.xml",
-   "size": 3876,
-   "sha1": "8282dac5e792c51355771648be11787eee7a997a"
+   "size": 4999,
+   "sha1": "8b7cd90b4faae4c8dd4a0dd44ec7faedd478bf0b"
   },
   {
    "path": "blog/daily/index.html",
-   "size": 13406,
-   "sha1": "55fd74a625b0a2723cc82776b5bed56d8e101b38"
+   "size": 15141,
+   "sha1": "f383df4b430a4b36be7af4f2bf0c1da91215c6c9"
   },
   {
    "path": "blog/daily/miami-real-estate-news-november-11-2026.html",
@@ -68,19 +68,29 @@
    "sha1": "3ad9f0f0eff4adf858b4cad4b6a084030cd2abba"
   },
   {
+   "path": "blog/daily/miami-real-estate-news-november-16-2026.html",
+   "size": 26174,
+   "sha1": "a5b2bdefbd8cfce454e26c7439fb25ed400ff2cb"
+  },
+  {
+   "path": "blog/daily/miami-real-estate-news-november-17-2026.html",
+   "size": 26497,
+   "sha1": "5d971609e9dd9d5e61595d0a06cdd98132c64927"
+  },
+  {
    "path": "blog/daily/miami-real-estate-news-october-29-2026.html",
    "size": 22624,
    "sha1": "9ff2fd78c40d44e1b49046804b47d68b3fbbe647"
   },
   {
    "path": "blog/daily/posts.json",
-   "size": 2785,
-   "sha1": "d93d1faf055463b88b3a4cf9fb8a704e480a1f10"
+   "size": 3689,
+   "sha1": "7196ad20d786ecfc3665b06eeffb32feb92ab891"
   },
   {
    "path": "blog/index.html",
-   "size": 9430,
-   "sha1": "5a13fe16864d749204d080ebc791b810bb2fdc20"
+   "size": 9414,
+   "sha1": "936009256f1138cf62acd34eb168edfb6867b1d3"
   },
   {
    "path": "buy.html",
@@ -151,6 +161,16 @@
    "path": "images/daily/2026-11-15.jpg",
    "size": 85740,
    "sha1": "442e56dff0ee744aabb2fe3abdbb6aecf8b74092"
+  },
+  {
+   "path": "images/daily/2026-11-16.jpg",
+   "size": 88084,
+   "sha1": "f46574dd630160eaf12fc02afe9c9ae9ed3dc2cc"
+  },
+  {
+   "path": "images/daily/2026-11-17.jpg",
+   "size": 81561,
+   "sha1": "26580ccebd4467719e279ad04f99ad3dfb9edae6"
   },
   {
    "path": "images/daily/pt-2026-11-11.jpg",
@@ -754,8 +774,8 @@
   },
   {
    "path": "pt/mercado/index.html",
-   "size": 9255,
-   "sha1": "f8b09beda6e46d3dbf6bb1194ec63b651e6ea567"
+   "size": 7901,
+   "sha1": "df68bac48e78df5d0f202e7f9efc4ab0e1c552ae"
   },
   {
    "path": "pt/mercado/mercado-imobiliario-miami-semana-11-de-novembro-de-2026.html",
@@ -784,8 +804,8 @@
   },
   {
    "path": "sitemap.xml",
-   "size": 17638,
-   "sha1": "93005b563286ccb07c0a8570b1db3be93829731a"
+   "size": 18012,
+   "sha1": "a52110ab084183631d89f9c0b61671e5a9afb394"
   },
   {
    "path": "thank-you.html",
