@@ -7,7 +7,7 @@
    - After realtorvini.com moves to GitHub Pages:    "https://adorable-biscotti-0b12f4.netlify.app"
 */
 (function () {
-  var FORM_ENDPOINT = "https://realtorvini.com";
+  var FORM_ENDPOINT = "https://adorable-biscotti-0b12f4.netlify.app";
   var endpointHost = FORM_ENDPOINT.replace(/^https?:\/\//, "").replace(/\/.*$/, "");
   var host = location.hostname;
   if (host === endpointHost || /\.netlify\.app$/.test(host)) return; // served by Netlify: normal submit
