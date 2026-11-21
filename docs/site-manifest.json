@@ -1,6 +1,6 @@
 {
  "site": "https://realtorvini.com",
- "generated": "2026-11-18T20:13:24Z",
+ "generated": "2026-11-21T02:28:22Z",
  "files": [
   {
    "path": "404.html",
@@ -34,13 +34,13 @@
   },
   {
    "path": "blog/daily/feed.xml",
-   "size": 4999,
-   "sha1": "8b7cd90b4faae4c8dd4a0dd44ec7faedd478bf0b"
+   "size": 5568,
+   "sha1": "0d8b1e8e26283025bd2a11e2b22bbfc57422cc7a"
   },
   {
    "path": "blog/daily/index.html",
-   "size": 15141,
-   "sha1": "f383df4b430a4b36be7af4f2bf0c1da91215c6c9"
+   "size": 16016,
+   "sha1": "5fa8d4e1ccc4d803ac9a23533175db9cee3c4ad8"
   },
   {
    "path": "blog/daily/miami-real-estate-news-november-11-2026.html",
@@ -69,13 +69,18 @@
   },
   {
    "path": "blog/daily/miami-real-estate-news-november-16-2026.html",
-   "size": 26174,
-   "sha1": "a5b2bdefbd8cfce454e26c7439fb25ed400ff2cb"
+   "size": 26253,
+   "sha1": "cbe996aed2f848abb35c5d59866d5e715503db50"
   },
   {
    "path": "blog/daily/miami-real-estate-news-november-17-2026.html",
-   "size": 26497,
-   "sha1": "5d971609e9dd9d5e61595d0a06cdd98132c64927"
+   "size": 26576,
+   "sha1": "0f34e98713d3b48629a029830a33f0258c32601c"
+  },
+  {
+   "path": "blog/daily/miami-real-estate-news-november-20-2026.html",
+   "size": 25170,
+   "sha1": "60f09e810dedab0d1d3864d021671d20fc8463a9"
   },
   {
    "path": "blog/daily/miami-real-estate-news-october-29-2026.html",
@@ -84,13 +89,13 @@
   },
   {
    "path": "blog/daily/posts.json",
-   "size": 3689,
-   "sha1": "7196ad20d786ecfc3665b06eeffb32feb92ab891"
+   "size": 4151,
+   "sha1": "131f0dc48cd93a14904d7c292bbd67be70ace045"
   },
   {
    "path": "blog/index.html",
-   "size": 9414,
-   "sha1": "936009256f1138cf62acd34eb168edfb6867b1d3"
+   "size": 9432,
+   "sha1": "f570bf26f538f0a91690f2bf89078924f3ea91c6"
   },
   {
    "path": "buy.html",
@@ -99,13 +104,13 @@
   },
   {
    "path": "css/styles.css",
-   "size": 38529,
-   "sha1": "a67c315344a4fac8fd89696a0eb68d16916ea8c2"
+   "size": 38530,
+   "sha1": "8332b0bfbae98bf4a5c81e23506cf4daf8889c06"
   },
   {
    "path": "data/market.json",
    "size": 89,
-   "sha1": "056ed534e6aeaca5fd4d6f55802ef1f9289e3b9d"
+   "sha1": "42c21ed1ee5be13e9b81e99fc8d6ef9df0fb33ad"
   },
   {
    "path": "es/index.html",
@@ -173,6 +178,11 @@
    "sha1": "26580ccebd4467719e279ad04f99ad3dfb9edae6"
   },
   {
+   "path": "images/daily/2026-11-20.jpg",
+   "size": 87341,
+   "sha1": "37123e6b2cb2c00505d6cbb940c98dc10c5d6147"
+  },
+  {
    "path": "images/daily/pt-2026-11-11.jpg",
    "size": 84149,
    "sha1": "bbe5796be3b7b9871faf4bbc1a093c5fe56cc054"
@@ -181,6 +191,11 @@
    "path": "images/daily/pt-2026-11-13.jpg",
    "size": 83968,
    "sha1": "3252111976824ca39065022b44f51eb3bc37730c"
+  },
+  {
+   "path": "images/daily/pt-2026-11-20.jpg",
+   "size": 83887,
+   "sha1": "70dfaaaf77b1aeea07f20a21bb90f9df241aaf96"
   },
   {
    "path": "images/favicon.svg",
@@ -774,8 +789,8 @@
   },
   {
    "path": "pt/mercado/index.html",
-   "size": 7901,
-   "sha1": "df68bac48e78df5d0f202e7f9efc4ab0e1c552ae"
+   "size": 10179,
+   "sha1": "0ae3c0277c870cfdda8d9c327bf8926c89f82aee"
   },
   {
    "path": "pt/mercado/mercado-imobiliario-miami-semana-11-de-novembro-de-2026.html",
@@ -788,9 +803,14 @@
    "sha1": "48abd301dc2f778f4622640936f563bc01c71deb"
   },
   {
+   "path": "pt/mercado/mercado-imobiliario-miami-semana-20-de-novembro-de-2026.html",
+   "size": 21962,
+   "sha1": "637da28b1e32136696cd80c566a130a45444b78e"
+  },
+  {
    "path": "pt/mercado/posts.json",
-   "size": 1015,
-   "sha1": "6ec805802c4ad8c0bd0152033e2ae89477792326"
+   "size": 1512,
+   "sha1": "24d016c8f4ab47c985b813cc968fecd7adbb1ab0"
   },
   {
    "path": "robots.txt",
@@ -804,8 +824,8 @@
   },
   {
    "path": "sitemap.xml",
-   "size": 18012,
-   "sha1": "a52110ab084183631d89f9c0b61671e5a9afb394"
+   "size": 18402,
+   "sha1": "1f9e991858cb2dae6e72e0206dface4e01742612"
   },
   {
    "path": "thank-you.html",
