@@ -25,6 +25,7 @@ buyers purchasing from abroad. He works in Portuguese, English and Spanish.
 - /homes-for-sale — personal home search request (Vini sends matching listings)
 - /buy — buyer process  |  /sell — free home valuation  |  /guide — Miami buying and selling guide
 - /blog/ — neighborhood guides and buyer guides (international buyers, condo vs. house, Coconut Grove)
+- /journal/ — Journal: long-form articles on buying, selling and living in Miami, published every other day
 - /blog/daily/ — Miami Real Estate Daily: published every day — Miami housing news, mortgage rates,
   Miami-Dade prices, condo market, with Vini's take; each edition links its sources
 - /blog/daily/feed.xml — RSS feed of daily editions
