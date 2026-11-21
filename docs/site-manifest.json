@@ -1,6 +1,6 @@
 {
  "site": "https://realtorvini.com",
- "generated": "2026-11-21T02:28:22Z",
+ "generated": "2026-11-21T10:56:06Z",
  "files": [
   {
    "path": "404.html",
@@ -34,13 +34,13 @@
   },
   {
    "path": "blog/daily/feed.xml",
-   "size": 5568,
-   "sha1": "0d8b1e8e26283025bd2a11e2b22bbfc57422cc7a"
+   "size": 6146,
+   "sha1": "3e8409bf89d74975ec4c58d50fd5fce3b827867c"
   },
   {
    "path": "blog/daily/index.html",
-   "size": 16016,
-   "sha1": "5fa8d4e1ccc4d803ac9a23533175db9cee3c4ad8"
+   "size": 16900,
+   "sha1": "3386b012c5b2ecd23c290c18256b1b3b22f264ee"
   },
   {
    "path": "blog/daily/miami-real-estate-news-november-11-2026.html",
@@ -83,24 +83,34 @@
    "sha1": "60f09e810dedab0d1d3864d021671d20fc8463a9"
   },
   {
+   "path": "blog/daily/miami-real-estate-news-november-21-2026.html",
+   "size": 26075,
+   "sha1": "da30b341492ac1aa6ecf492f3e70c40cf92d7bc3"
+  },
+  {
    "path": "blog/daily/miami-real-estate-news-october-29-2026.html",
    "size": 22624,
    "sha1": "9ff2fd78c40d44e1b49046804b47d68b3fbbe647"
   },
   {
    "path": "blog/daily/posts.json",
-   "size": 4151,
-   "sha1": "131f0dc48cd93a14904d7c292bbd67be70ace045"
+   "size": 4622,
+   "sha1": "dffb710000c1162f387e53e4cf20a5e4b1278e66"
   },
   {
    "path": "blog/index.html",
-   "size": 9432,
-   "sha1": "f570bf26f538f0a91690f2bf89078924f3ea91c6"
+   "size": 10029,
+   "sha1": "fa29a4d283cde2719e6238d40795c690ee2a1303"
   },
   {
    "path": "buy.html",
    "size": 8844,
    "sha1": "665ec6a5b48cdedd647e09b39ac8f6a77a36d0f7"
+  },
+  {
+   "path": "css/journal.css",
+   "size": 4395,
+   "sha1": "85508c4e37adeea3e7807f7e4843262deb9cb9f6"
   },
   {
    "path": "css/styles.css",
@@ -181,6 +191,11 @@
    "path": "images/daily/2026-11-20.jpg",
    "size": 87341,
    "sha1": "37123e6b2cb2c00505d6cbb940c98dc10c5d6147"
+  },
+  {
+   "path": "images/daily/2026-11-21.jpg",
+   "size": 90390,
+   "sha1": "7d984cd8810a91d0aefef4dc3a6f6740fcfaf352"
   },
   {
    "path": "images/daily/pt-2026-11-11.jpg",
@@ -298,6 +313,16 @@
    "sha1": "87c9a3dd65c8bc018746e5ba7decbceb2d0c2ef7"
   },
   {
+   "path": "journal/buying-a-home-in-miami-during-the-holidays.html",
+   "size": 14391,
+   "sha1": "5946ba91d52241965d53c92016be9e99e2fcd695"
+  },
+  {
+   "path": "journal/index.html",
+   "size": 7841,
+   "sha1": "749322e483826cc53b65476c00d76e660181467f"
+  },
+  {
    "path": "js/form-relay.js",
    "size": 2540,
    "sha1": "e2fed664fe94b609117cd6c16c5cf40385fb5ab5"
@@ -324,8 +349,8 @@
   },
   {
    "path": "llms.txt",
-   "size": 2602,
-   "sha1": "3012d2a6936b8cecb1cb6dc3449ec2fec45e827d"
+   "size": 2712,
+   "sha1": "0055ef20718e3b0e68a0b8199cd5d49e7969f85f"
   },
   {
    "path": "mortgage-calculator/index.html",
@@ -824,8 +849,8 @@
   },
   {
    "path": "sitemap.xml",
-   "size": 18402,
-   "sha1": "1f9e991858cb2dae6e72e0206dface4e01742612"
+   "size": 18913,
+   "sha1": "a1edac0a2922119247ea79bc92de4a6d265885bb"
   },
   {
    "path": "thank-you.html",
