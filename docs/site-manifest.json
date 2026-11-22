@@ -1,6 +1,6 @@
 {
  "site": "https://realtorvini.com",
- "generated": "2026-11-22T10:45:02Z",
+ "generated": "2026-11-22T10:57:21Z",
  "files": [
   {
    "path": "404.html",
@@ -34,13 +34,13 @@
   },
   {
    "path": "blog/daily/feed.xml",
-   "size": 6146,
-   "sha1": "3e8409bf89d74975ec4c58d50fd5fce3b827867c"
+   "size": 6708,
+   "sha1": "c71e2557a0859aa16ca91395d52d06bfed854929"
   },
   {
    "path": "blog/daily/index.html",
-   "size": 16900,
-   "sha1": "3386b012c5b2ecd23c290c18256b1b3b22f264ee"
+   "size": 17768,
+   "sha1": "75eba5828a608dd8f48813e026820efdc26673bc"
   },
   {
    "path": "blog/daily/miami-real-estate-news-november-11-2026.html",
@@ -88,19 +88,24 @@
    "sha1": "da30b341492ac1aa6ecf492f3e70c40cf92d7bc3"
   },
   {
+   "path": "blog/daily/miami-real-estate-news-november-22-2026.html",
+   "size": 25820,
+   "sha1": "68789b35555e27465b541eaa60df7993c831cd31"
+  },
+  {
    "path": "blog/daily/miami-real-estate-news-october-29-2026.html",
    "size": 22624,
    "sha1": "9ff2fd78c40d44e1b49046804b47d68b3fbbe647"
   },
   {
    "path": "blog/daily/posts.json",
-   "size": 4622,
-   "sha1": "dffb710000c1162f387e53e4cf20a5e4b1278e66"
+   "size": 5077,
+   "sha1": "dead4b0158c11e89d9265ef96c0fc5a3fbdfccce"
   },
   {
    "path": "blog/index.html",
-   "size": 10138,
-   "sha1": "1b7a08125b675a552a77982d5e0b7a27b75a82c3"
+   "size": 10122,
+   "sha1": "cd04af8b83ff88a40f3e4abad9b8186bad5cd2ac"
   },
   {
    "path": "buy.html",
@@ -196,6 +201,11 @@
    "path": "images/daily/2026-11-21.jpg",
    "size": 90390,
    "sha1": "7d984cd8810a91d0aefef4dc3a6f6740fcfaf352"
+  },
+  {
+   "path": "images/daily/2026-11-22.jpg",
+   "size": 84867,
+   "sha1": "09e8691ea51d408f8bcb1cfdfbd2f6631351975f"
   },
   {
    "path": "images/daily/pt-2026-11-11.jpg",
@@ -859,8 +869,8 @@
   },
   {
    "path": "sitemap.xml",
-   "size": 19107,
-   "sha1": "dd638e0e9d83730292bf45b8ad3fc8f3fe126f07"
+   "size": 19294,
+   "sha1": "976febe83c57cd9280d70017bf42a84478db7850"
   },
   {
    "path": "thank-you.html",
