@@ -1,6 +1,6 @@
 {
  "site": "https://realtorvini.com",
- "generated": "2026-11-21T10:56:06Z",
+ "generated": "2026-11-22T10:45:02Z",
  "files": [
   {
    "path": "404.html",
@@ -99,8 +99,8 @@
   },
   {
    "path": "blog/index.html",
-   "size": 10029,
-   "sha1": "fa29a4d283cde2719e6238d40795c690ee2a1303"
+   "size": 10138,
+   "sha1": "1b7a08125b675a552a77982d5e0b7a27b75a82c3"
   },
   {
    "path": "buy.html",
@@ -109,8 +109,8 @@
   },
   {
    "path": "css/journal.css",
-   "size": 4395,
-   "sha1": "85508c4e37adeea3e7807f7e4843262deb9cb9f6"
+   "size": 5349,
+   "sha1": "091faef0f6c45343096c54379418e9234ae925cf"
   },
   {
    "path": "css/styles.css",
@@ -313,14 +313,24 @@
    "sha1": "87c9a3dd65c8bc018746e5ba7decbceb2d0c2ef7"
   },
   {
+   "path": "journal/articles.json",
+   "size": 940,
+   "sha1": "6ebe9eeaadf1ac353a63edc7272c01eb75b8de4f"
+  },
+  {
    "path": "journal/buying-a-home-in-miami-during-the-holidays.html",
    "size": 14391,
    "sha1": "5946ba91d52241965d53c92016be9e99e2fcd695"
   },
   {
+   "path": "journal/firpta-explained-what-foreign-sellers-keep-at-closing.html",
+   "size": 18106,
+   "sha1": "93812dd31c4dc6df9e038fca437eacd03f0c1999"
+  },
+  {
    "path": "journal/index.html",
-   "size": 7841,
-   "sha1": "749322e483826cc53b65476c00d76e660181467f"
+   "size": 8587,
+   "sha1": "8b8aaabc800bd30bfb47e77488db263df20d8c50"
   },
   {
    "path": "js/form-relay.js",
@@ -849,8 +859,8 @@
   },
   {
    "path": "sitemap.xml",
-   "size": 18913,
-   "sha1": "a1edac0a2922119247ea79bc92de4a6d265885bb"
+   "size": 19107,
+   "sha1": "dd638e0e9d83730292bf45b8ad3fc8f3fe126f07"
   },
   {
    "path": "thank-you.html",
