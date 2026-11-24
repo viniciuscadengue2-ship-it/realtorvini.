@@ -127,7 +127,7 @@ a { color: var(--rsg-blue); text-decoration: none; }
   height: 84px;
 }
 .brand { display: flex; align-items: center; gap: 16px; color: #fff; }
-.brand-logo { height: 52px; width: auto; }
+.brand-logo { height: 52px; width: auto; filter: brightness(0) invert(1); }
 .brand-mark { display: none; }
 .brand-divider { width: 1px; height: 40px; background: rgba(255, 255, 255, 0.45); }
 .brand-text { display: flex; flex-direction: column; line-height: 1.25; }
@@ -557,7 +557,7 @@ a.listing-photo-wrap:hover .listing-photo-img { transform: scale(1.04); }
 .footer-inner { display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 36px; }
 .footer-inner a { color: #fff; }
 .footer-brand { display: flex; align-items: center; gap: 18px; margin-bottom: 16px; }
-.footer-rsg { height: 64px; width: auto; }
+.footer-rsg { height: 64px; width: auto; filter: brightness(0) invert(1); }
 .footer-name { font-family: var(--font-display); font-weight: 400; letter-spacing: 0.16em; text-transform: uppercase; color: #fff !important; margin-bottom: 4px; }
 .footer-fh { font-size: 0.8rem; opacity: 0.8; }
 .footer-col h4 {

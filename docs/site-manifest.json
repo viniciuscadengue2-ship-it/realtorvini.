@@ -129,8 +129,8 @@
   },
   {
    "path": "css/styles.css",
-   "size": 38530,
-   "sha1": "8332b0bfbae98bf4a5c81e23506cf4daf8889c06"
+   "size": 38596,
+   "sha1": "b29f167af3062135856bfa711f9d45703823f2b0"
   },
   {
    "path": "data/market.json",
@@ -140,7 +140,7 @@
   {
    "path": "es/index.html",
    "size": 20371,
-   "sha1": "5fd06679b68b17a51734175de8cca58ba44715fc"
+   "sha1": "e2c4cae2efe99bcfde0a2dbf260aae8568b8ad91"
   },
   {
    "path": "espanol/index.html",
@@ -625,257 +625,257 @@
   {
    "path": "pt/bairros/aventura/index.html",
    "size": 13420,
-   "sha1": "6c6c31003eb777751741eb6dd0d530bf96b1fede"
+   "sha1": "edac8f042418c4fc6df113da3074bcbf5ed26651"
   },
   {
    "path": "pt/bairros/bal-harbour/index.html",
    "size": 13500,
-   "sha1": "2fb13466a21990b2dbf705c843b4da9c7b386ab9"
+   "sha1": "b28a46ba7c14b15ecc7304fe9330cbef972615d9"
   },
   {
    "path": "pt/bairros/bay-harbor-islands/index.html",
    "size": 13659,
-   "sha1": "85a9db14e2eaa971859848f43549f8e66025d256"
+   "sha1": "128f7aca4808b73c13dcf8057d1f2c480f4e08ac"
   },
   {
    "path": "pt/bairros/brickell/index.html",
    "size": 14900,
-   "sha1": "0e53f1d29e1b3c310a854eee14555b75fd4baea5"
+   "sha1": "d07fd7ddc358466eeee5c6a04f81fa7f04c9548f"
   },
   {
    "path": "pt/bairros/coconut-grove/index.html",
    "size": 14070,
-   "sha1": "eeb9545d76d42ed7fa85328fe0e29071542f56e5"
+   "sha1": "7c1ae03a0304487bf494497ba5560d4805b0e798"
   },
   {
    "path": "pt/bairros/coral-gables/index.html",
    "size": 14408,
-   "sha1": "4d3fde3f1bb21a984da80948048bc3421520dd21"
+   "sha1": "fc661294b3dd3f962eeb1632061ee435f8afcdc9"
   },
   {
    "path": "pt/bairros/coral-springs/index.html",
    "size": 13517,
-   "sha1": "d00844856bea7f3457570328825ccef6df1460b3"
+   "sha1": "e045b4b68d3a3374309f519aeb247d0d8ea3e886"
   },
   {
    "path": "pt/bairros/cutler-bay/index.html",
    "size": 13080,
-   "sha1": "6967e1f231c94e50f13dba20e747e074d058f027"
+   "sha1": "0c4e1f91a923480a899a8b846d6b90edb2d40df6"
   },
   {
    "path": "pt/bairros/davie/index.html",
    "size": 13397,
-   "sha1": "beb019de03becfa786fcabd1481df7447277111e"
+   "sha1": "0af69654e6369ef48b59721e85810c45bf794ffb"
   },
   {
    "path": "pt/bairros/design-district/index.html",
    "size": 13677,
-   "sha1": "a377a784b9cab159289422e7d24051c8a6c0c927"
+   "sha1": "8c4492c80dc866c545b3f372544f47db02fbf34f"
   },
   {
    "path": "pt/bairros/doral/index.html",
    "size": 13177,
-   "sha1": "9ab2d797202460f2ab640bb95d20b731cf460121"
+   "sha1": "646f443c00296b1e4bbc2297d451e3d15c98be8d"
   },
   {
    "path": "pt/bairros/downtown-miami/index.html",
    "size": 14294,
-   "sha1": "bbe4013491eceb3620acbbe57e1d55b69dd49a09"
+   "sha1": "f6650d3a723b0eeacd43f2726cb2019ef885d8c5"
   },
   {
    "path": "pt/bairros/edgewater/index.html",
    "size": 13821,
-   "sha1": "8131cc1fb2e27eb05ead3b2b58dea8710be4ad3e"
+   "sha1": "54d04b0321642132a72e91a93b34d22d606ebb2f"
   },
   {
    "path": "pt/bairros/fisher-island/index.html",
    "size": 13327,
-   "sha1": "4abb20b9ba56654033fdc995a47d03a5a80616ba"
+   "sha1": "2e51fc9144b9731343fa1e83272e901ac7b9d654"
   },
   {
    "path": "pt/bairros/fort-lauderdale/index.html",
    "size": 14194,
-   "sha1": "e809a27b8090865f22dab22a77e49f495eb57a9d"
+   "sha1": "37f1b2ca303d7a8c28a668f600b2b9edf513bec4"
   },
   {
    "path": "pt/bairros/hallandale-beach/index.html",
    "size": 14063,
-   "sha1": "4a9e24aa446288265bc049a6503f30d39943ba11"
+   "sha1": "4ef442f63c899e7c005f39068aac68878e19a5b6"
   },
   {
    "path": "pt/bairros/hialeah/index.html",
    "size": 12861,
-   "sha1": "e2d8c8db4ccd5a5c6b270a5fe05f9a165f947e4d"
+   "sha1": "6988b4be2ae39947fbe06ad95762b4a7d845c1ff"
   },
   {
    "path": "pt/bairros/hollywood/index.html",
    "size": 13711,
-   "sha1": "487735d50205505438ea76e2365c4e22def96b20"
+   "sha1": "23453f7b3ebd4c29cc1c16ef5305c3b398b4fca8"
   },
   {
    "path": "pt/bairros/homestead/index.html",
    "size": 13255,
-   "sha1": "3a6b8723014c9397952bf7a0b97e66653f866ad2"
+   "sha1": "0cf18236d584a40fdbb06a9ee75a9ce0f4fc7afe"
   },
   {
    "path": "pt/bairros/index.html",
    "size": 16867,
-   "sha1": "ed22a040413a5ef254bb502f82dff91db9f81025"
+   "sha1": "7458fa3bc038990be1a5ce9efa1d0d80273a4383"
   },
   {
    "path": "pt/bairros/kendall/index.html",
    "size": 13572,
-   "sha1": "b296aa1b3c0cb1b6cb1ae1c1ab2603fd6fd0f52b"
+   "sha1": "9e92c7371d2112cb769edb4e6cfe31e28d2545d5"
   },
   {
    "path": "pt/bairros/key-biscayne/index.html",
    "size": 14401,
-   "sha1": "7d598027a10987fde710983d9a818774db1eb846"
+   "sha1": "f94972b18954c7b5f3fe29e53962bceee1769157"
   },
   {
    "path": "pt/bairros/lighthouse-point/index.html",
    "size": 13848,
-   "sha1": "d571ed8a696e720f6b2e5efb2298a08ca582ac2e"
+   "sha1": "b0cce793a7db8b2721fbc8d2b9f78d9f6c25819a"
   },
   {
    "path": "pt/bairros/little-havana/index.html",
    "size": 13674,
-   "sha1": "66009b7b7f90647634822c65a86c19f6253d3f8d"
+   "sha1": "fe059bcd98e8e901f8cc67945a22231f5bf2c271"
   },
   {
    "path": "pt/bairros/miami-beach/index.html",
    "size": 14566,
-   "sha1": "ced5670eb41effc9f6b0c40bd78e2312ac769632"
+   "sha1": "75b075046cdcd5d092bdbab2d6138012b28f7bb2"
   },
   {
    "path": "pt/bairros/miami-lakes/index.html",
    "size": 12922,
-   "sha1": "dfd7c6ff4de54932831e776e25ea1d192a3a2e86"
+   "sha1": "d99bc7bb4eda95d0f1d3f9fa4b459c861254d515"
   },
   {
    "path": "pt/bairros/miami-shores/index.html",
    "size": 13130,
-   "sha1": "34e7c02014bd4ab563d372ab92b59306046708b7"
+   "sha1": "6cf16fc0c31e0264aa35ce8a44216a6837db2f24"
   },
   {
    "path": "pt/bairros/midtown/index.html",
    "size": 13487,
-   "sha1": "b831e3e3cb9d5658e34942753c86c0782f1dcc7a"
+   "sha1": "aac68181b64f3554f814af86c35b6fcb15d57d64"
   },
   {
    "path": "pt/bairros/miramar/index.html",
    "size": 13370,
-   "sha1": "5c7636caa34e6659f412233853a1f30b88ed8b9c"
+   "sha1": "40be2c619a159e5699a3daf7ea0acfbff9ed6ce6"
   },
   {
    "path": "pt/bairros/north-miami/index.html",
    "size": 13055,
-   "sha1": "9bdec545f2954eb09e77ff161cae26163bb10eba"
+   "sha1": "9942b90b3d1921da14ff2517160947a296917e09"
   },
   {
    "path": "pt/bairros/palmetto-bay/index.html",
    "size": 13332,
-   "sha1": "76f074ad12f4033da722b9f366443b7ff64c9e3f"
+   "sha1": "a53f7c2327c9f5603cde74fe7923c3474137f345"
   },
   {
    "path": "pt/bairros/parkland/index.html",
    "size": 13379,
-   "sha1": "725c5866d7ee708bc39ed9fee4b55ffa5f2bc648"
+   "sha1": "b2efdfd827f78578b3e0d1c297d4d13c7b9a668a"
   },
   {
    "path": "pt/bairros/pembroke-pines/index.html",
    "size": 13733,
-   "sha1": "906f79a2fad0a5f80152dd7b591f318b275accb0"
+   "sha1": "2b7aec7838de9d94c9b3a6d9448f210a81ea6ce0"
   },
   {
    "path": "pt/bairros/pinecrest/index.html",
    "size": 13299,
-   "sha1": "482d19654c191ae05492c2191b6d7be21321f0f8"
+   "sha1": "ad8196fcac597f758cdbd332fd41efe71a69beb5"
   },
   {
    "path": "pt/bairros/plantation/index.html",
    "size": 13460,
-   "sha1": "2de976dfa461ffe6086ab891875e0819a27982bb"
+   "sha1": "62af86983310a475f9472de1f14cfa0e1061010a"
   },
   {
    "path": "pt/bairros/pompano-beach/index.html",
    "size": 13670,
-   "sha1": "4a7d03e5ad87c70b0de3736960994b112623c956"
+   "sha1": "8b2218980c9073f12fa8923e53edb407f6d9b8e2"
   },
   {
    "path": "pt/bairros/south-miami/index.html",
    "size": 13270,
-   "sha1": "4cd5b78a9325eca20db4b33467fe9085a102b12b"
+   "sha1": "36f94e788ddd181694e4c5ab5e8984b1e0d7524b"
   },
   {
    "path": "pt/bairros/sunny-isles-beach/index.html",
    "size": 14047,
-   "sha1": "7477e593bdc1d174c2a13e172c6a1575e8833846"
+   "sha1": "90bd4e965847ee4361d2989c568021fc49274f3c"
   },
   {
    "path": "pt/bairros/surfside/index.html",
    "size": 13560,
-   "sha1": "d610b370a17eca6d2e29b036ec4c4676b5923e84"
+   "sha1": "dfa08552ea9e0b960ca48762bf2db1fe67716cd5"
   },
   {
    "path": "pt/bairros/upper-east-side/index.html",
    "size": 13878,
-   "sha1": "b7160d928aaf0db26189c8279f12d03fa16456ef"
+   "sha1": "5fb7e26194fcf11164a84140a609e66134cfdec7"
   },
   {
    "path": "pt/bairros/westchester/index.html",
    "size": 13032,
-   "sha1": "e94557d20aa78d3393ae8d22bd25465bce0c57d2"
+   "sha1": "9bdfe9c5d4ee2e42fb9af6385c5da389b0abf99c"
   },
   {
    "path": "pt/bairros/weston/index.html",
    "size": 13725,
-   "sha1": "d45d31508b7a57f42488dd59303eb44484537dfb"
+   "sha1": "911cb20a0f10b0813aeee5d6c7ff6ce01b613b76"
   },
   {
    "path": "pt/bairros/wynwood/index.html",
    "size": 13452,
-   "sha1": "8ba5f5a40e6babd31fa6b9ce6d4c3033120a1946"
+   "sha1": "29677c2e45bed09d09a8883b350b7519f90c5cac"
   },
   {
    "path": "pt/calculadora/index.html",
    "size": 13547,
-   "sha1": "12bc217c487a77cc14f9a39b4fffe5eb85c45e0c"
+   "sha1": "cc0a2b886fdb4f1bb05373e2c207e9b97c77aef2"
   },
   {
    "path": "pt/guia/index.html",
    "size": 9581,
-   "sha1": "1313d7e2f8dd43347daabc40b47569e808eed362"
+   "sha1": "78e0de318c4e9a5659cc1d9079b0ed60ac3ae536"
   },
   {
    "path": "pt/guia/obrigado/index.html",
    "size": 6799,
-   "sha1": "b357f961690f093928d1d3d3fb12978523345acb"
+   "sha1": "e7dde5429b88b436246cbb2a8231c92b65ef3186"
   },
   {
    "path": "pt/index.html",
    "size": 23419,
-   "sha1": "eb1837ebd60359fce114ff40c684c5f6fbb76909"
+   "sha1": "4c9b6d1e33e6e6e77c23ec7ef952891bfaf16b6a"
   },
   {
    "path": "pt/mercado/index.html",
    "size": 10179,
-   "sha1": "0ae3c0277c870cfdda8d9c327bf8926c89f82aee"
+   "sha1": "7a364aaf6a522e93fc8e8f7833cec8091bd4824a"
   },
   {
    "path": "pt/mercado/mercado-imobiliario-miami-semana-11-de-novembro-de-2026.html",
    "size": 20989,
-   "sha1": "2cd99662968aedfa04f6a77df1fdb2d220ddb28d"
+   "sha1": "603db8b7d73004b67593d5076827d1ed0d813616"
   },
   {
    "path": "pt/mercado/mercado-imobiliario-miami-semana-13-de-novembro-de-2026.html",
    "size": 21019,
-   "sha1": "48abd301dc2f778f4622640936f563bc01c71deb"
+   "sha1": "d5e46a6a741f29433261d0656cceecaaf1566915"
   },
   {
    "path": "pt/mercado/mercado-imobiliario-miami-semana-20-de-novembro-de-2026.html",
    "size": 21962,
-   "sha1": "637da28b1e32136696cd80c566a130a45444b78e"
+   "sha1": "13af7e27e62d9c9c3d76dc0f5ff551f95f496cc1"
   },
   {
    "path": "pt/mercado/posts.json",
