@@ -1,6 +1,6 @@
 {
  "site": "https://realtorvini.com",
- "generated": "2026-11-23T10:56:55Z",
+ "generated": "2026-11-24T10:47:55Z",
  "files": [
   {
    "path": "404.html",
@@ -109,8 +109,8 @@
   },
   {
    "path": "blog/index.html",
-   "size": 10140,
-   "sha1": "f02a92730e3a8722b166cb45af05b2753db57565"
+   "size": 10122,
+   "sha1": "46ef083f436c553bdcaecdea609afa78bd6e10a9"
   },
   {
    "path": "buy.html",
@@ -334,8 +334,8 @@
   },
   {
    "path": "journal/articles.json",
-   "size": 940,
-   "sha1": "6ebe9eeaadf1ac353a63edc7272c01eb75b8de4f"
+   "size": 1424,
+   "sha1": "169e8d3151755a2683b85152ff72055eb680b08a"
   },
   {
    "path": "journal/buying-a-home-in-miami-during-the-holidays.html",
@@ -349,8 +349,13 @@
   },
   {
    "path": "journal/index.html",
-   "size": 8587,
-   "sha1": "8b8aaabc800bd30bfb47e77488db263df20d8c50"
+   "size": 9264,
+   "sha1": "fb3a6adbe5e4a0d3b7e45efecf4936015d9b7fe4"
+  },
+  {
+   "path": "journal/kendall-real-estate-guide-2026.html",
+   "size": 17896,
+   "sha1": "90b4763cee138d76f3921c8df80361d0d1494e36"
   },
   {
    "path": "js/form-relay.js",
@@ -879,8 +884,8 @@
   },
   {
    "path": "sitemap.xml",
-   "size": 18963,
-   "sha1": "80ee4f9da24ae433b2bf7b438aad3e0fe83c750e"
+   "size": 19275,
+   "sha1": "8494baad125e67368586cf5d0f8d931bab387dea"
   },
   {
    "path": "thank-you.html",
