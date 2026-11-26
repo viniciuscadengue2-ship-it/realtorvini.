@@ -1,6 +1,6 @@
 {
  "site": "https://realtorvini.com",
- "generated": "2026-11-25T10:55:34Z",
+ "generated": "2026-11-26T10:45:14Z",
  "files": [
   {
    "path": "404.html",
@@ -119,8 +119,8 @@
   },
   {
    "path": "blog/index.html",
-   "size": 10106,
-   "sha1": "a246f13529ba01aea8d995528c0bcba84f28c634"
+   "size": 10149,
+   "sha1": "449e17ac3e468b491bca0e604837a29e9e496778"
   },
   {
    "path": "buy.html",
@@ -354,8 +354,8 @@
   },
   {
    "path": "journal/articles.json",
-   "size": 1424,
-   "sha1": "169e8d3151755a2683b85152ff72055eb680b08a"
+   "size": 1954,
+   "sha1": "da9e09335ace79455ef518a0152e6326322ead96"
   },
   {
    "path": "journal/buying-a-home-in-miami-during-the-holidays.html",
@@ -369,13 +369,18 @@
   },
   {
    "path": "journal/index.html",
-   "size": 9264,
-   "sha1": "fb3a6adbe5e4a0d3b7e45efecf4936015d9b7fe4"
+   "size": 9957,
+   "sha1": "22f0d5296ee47d2e6ead3b1fd108bd3ec2a20fcb"
   },
   {
    "path": "journal/kendall-real-estate-guide-2026.html",
    "size": 17896,
    "sha1": "90b4763cee138d76f3921c8df80361d0d1494e36"
+  },
+  {
+   "path": "journal/why-so-many-brazilians-call-miami-home.html",
+   "size": 19029,
+   "sha1": "a43b254814279859e84e0bca4d0e6ba8cc452e76"
   },
   {
    "path": "js/form-relay.js",
@@ -904,8 +909,8 @@
   },
   {
    "path": "sitemap.xml",
-   "size": 20026,
-   "sha1": "a4ec0548f25ea8b63d97ae3b004620925ba549a7"
+   "size": 20205,
+   "sha1": "d4d19596a33b85c337b9e9235529901298649b02"
   },
   {
    "path": "thank-you.html",
