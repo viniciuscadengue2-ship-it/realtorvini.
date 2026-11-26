@@ -1,6 +1,6 @@
 {
  "site": "https://realtorvini.com",
- "generated": "2026-11-26T10:45:14Z",
+ "generated": "2026-11-26T10:52:07Z",
  "files": [
   {
    "path": "404.html",
@@ -34,13 +34,13 @@
   },
   {
    "path": "blog/daily/feed.xml",
-   "size": 8443,
-   "sha1": "b384ee1cf3ca26fa23dddeb5f8c84b9a7005ad06"
+   "size": 9022,
+   "sha1": "22842ae77d867453ec330b6278724aaccac97250"
   },
   {
    "path": "blog/daily/index.html",
-   "size": 20421,
-   "sha1": "4e4ef8d2b32fc908fcdf9867504b800019b4a51b"
+   "size": 21306,
+   "sha1": "a97c51ccd13df77a26b68ba3b91a03aa838c9f8b"
   },
   {
    "path": "blog/daily/miami-real-estate-news-november-11-2026.html",
@@ -108,19 +108,24 @@
    "sha1": "544f362c6250cc729088bf553667a19aef0351cb"
   },
   {
+   "path": "blog/daily/miami-real-estate-news-november-26-2026.html",
+   "size": 25295,
+   "sha1": "26c8b262b43b9b60154ddc142f9d6bfcdf98b858"
+  },
+  {
    "path": "blog/daily/miami-real-estate-news-october-29-2026.html",
    "size": 22624,
    "sha1": "9ff2fd78c40d44e1b49046804b47d68b3fbbe647"
   },
   {
    "path": "blog/daily/posts.json",
-   "size": 6486,
-   "sha1": "886f2864b2ca15db6d931f2ca8edcde677d2f9d9"
+   "size": 6953,
+   "sha1": "73611782c21bd25eeed04d75d414278c784fc20a"
   },
   {
    "path": "blog/index.html",
-   "size": 10149,
-   "sha1": "449e17ac3e468b491bca0e604837a29e9e496778"
+   "size": 10164,
+   "sha1": "fe31cb665d4b7fca739c3965708a462adffb02ab"
   },
   {
    "path": "buy.html",
@@ -140,7 +145,7 @@
   {
    "path": "data/market.json",
    "size": 89,
-   "sha1": "42c21ed1ee5be13e9b81e99fc8d6ef9df0fb33ad"
+   "sha1": "2547ebb12ba1b6a46d4fb3ba709b6594b36eddea"
   },
   {
    "path": "es/index.html",
@@ -236,6 +241,11 @@
    "path": "images/daily/2026-11-25.jpg",
    "size": 84378,
    "sha1": "b440a92568177cb4b3732761d53a482b33b19417"
+  },
+  {
+   "path": "images/daily/2026-11-26.jpg",
+   "size": 90949,
+   "sha1": "6102188abbc836c01cae2f0dae67cbee7040651d"
   },
   {
    "path": "images/daily/pt-2026-11-11.jpg",
@@ -909,8 +919,8 @@
   },
   {
    "path": "sitemap.xml",
-   "size": 20205,
-   "sha1": "d4d19596a33b85c337b9e9235529901298649b02"
+   "size": 20392,
+   "sha1": "0482b73ce2da2c29c95948a9c351028cccfcecbf"
   },
   {
    "path": "thank-you.html",
