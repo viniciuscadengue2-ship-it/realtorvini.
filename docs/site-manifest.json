@@ -1,6 +1,6 @@
 {
  "site": "https://realtorvini.com",
- "generated": "2026-11-26T10:52:07Z",
+ "generated": "2026-11-28T10:45:08Z",
  "files": [
   {
    "path": "404.html",
@@ -124,8 +124,8 @@
   },
   {
    "path": "blog/index.html",
-   "size": 10164,
-   "sha1": "fe31cb665d4b7fca739c3965708a462adffb02ab"
+   "size": 10132,
+   "sha1": "5fe1b45a6875049b33f8a8193da5a9171c48621d"
   },
   {
    "path": "buy.html",
@@ -364,8 +364,8 @@
   },
   {
    "path": "journal/articles.json",
-   "size": 1954,
-   "sha1": "da9e09335ace79455ef518a0152e6326322ead96"
+   "size": 2443,
+   "sha1": "af387bf2003fd759f8cdacbfbed7354a4f798fcb"
   },
   {
    "path": "journal/buying-a-home-in-miami-during-the-holidays.html",
@@ -378,9 +378,14 @@
    "sha1": "93812dd31c4dc6df9e038fca437eacd03f0c1999"
   },
   {
+   "path": "journal/foreign-national-mortgages-miami.html",
+   "size": 18038,
+   "sha1": "2c7fbda43ee0e6a10a9d26b879a3479289c0433b"
+  },
+  {
    "path": "journal/index.html",
-   "size": 9957,
-   "sha1": "22f0d5296ee47d2e6ead3b1fd108bd3ec2a20fcb"
+   "size": 10634,
+   "sha1": "1f9adaec1309fe2b26b5510345bc5b6d8382e541"
   },
   {
    "path": "journal/kendall-real-estate-guide-2026.html",
@@ -919,8 +924,8 @@
   },
   {
    "path": "sitemap.xml",
-   "size": 20392,
-   "sha1": "0482b73ce2da2c29c95948a9c351028cccfcecbf"
+   "size": 20565,
+   "sha1": "384b0dcd340985d8b87fa58ec7455e1c872d99a7"
   },
   {
    "path": "thank-you.html",
